@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useContext } from "react";
+import  { useContext } from "react";
 import { IProduct } from "../models";
 import Loader from "../components/Loader";
 import ErrorMessage from "../components/ErrorMessage";
